@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+#image1{
+    width: 550px;
+    margin-left: 35px;
+   
+    
+}
+#paragraf1{
+    text-align: center;
+    width: 550px;
+    margin-left: 35px;
+}
+#paragraf{
+    color: rgba(21, 94, 239, 1);
+    width: 550px;
+    margin-left: 35px;
+}
+#paragraf2{
+    color: rgba(206, 162, 1, 1);
+    padding: 10px;
+    border: 3px solid rgba(206, 162, 1, 1);
+    margin-left: 35px;
+    width: 100px;
+}
+#paragraf3{
+    width: 550px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: -5px;
+
+    
+    
+    margin-left: 35px;
+}
+
+#hh{
+    
+    width: 650px;
+    margin-left: 35px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+#paragraf1-1{
+    width: 650px;
+    text-align: center;
+    margin-left: 35px;
+}
+#paragraf1-2{
+    width: 650px;
+    text-align: center;
+    color: rgba(0, 199, 110, 1);
+}
+#paragraf1-3{
+    width: 650px;
+    color: rgba(255, 93, 163, 1);
+    margin-left: 35px;
+}
+#image2{
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+
+
+}
+
+    
+
+ul{
+    width: 650px;
+    background-color: rgba(255, 222, 240, 1);
+    color: black;
+    border: 3px solid rgba(193, 21, 116, 1);
+    margin-left: 35px;
+    
+}
+li{
+    color: rgba(194, 117, 18, 1);
+    
+    
+}
+#image3{
+    width: 298.01px;
+    height: 396px;
+    margin-left: 35px;
+}
+#par{
+    margin-left: 650px;
+    color: rgba(0, 212, 188, 1);
+    font-size: 20px;
+}
+
+    
+
